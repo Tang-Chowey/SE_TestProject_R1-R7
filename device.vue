@@ -3,6 +3,7 @@
 </template>
 
 <script>
+// 第一次修改文件device.vue
 import * as echarts from 'echarts';
 import 'echarts-liquidfill'
 export default {

@@ -3,6 +3,7 @@
 </template>
 
 <script>
+// 第一次修改文件environmentalScore.vue
 import * as echarts from 'echarts';
 
 export default {
